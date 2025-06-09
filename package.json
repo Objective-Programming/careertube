@@ -1,0 +1,15 @@
+{
+  "name": "careertube",
+  "version": "1.0.0",
+  "description": "CareerTube is an app that hosts videos and online resources focusing on main line careers like doctors, lawyers, engineering.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
